@@ -16,3 +16,6 @@ Este robô foi feito na INAC, incubadora de robótica, o projeto quase foi concl
 O robô anda e quado detecta algo ele faz som (só isso kkkk tava complicado a situação)
 
 Quando eu for montar eu mostro para vocês como a gente colocou na carcaça
+
+
+Nunca montei, é isso KKKKKKKKKKKKKKKKKKKKKKKKK
